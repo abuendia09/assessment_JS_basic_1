@@ -11,6 +11,8 @@
 
 //CODE HERE
 
+let gitDefinition = 'it is a version control system to track content and changes on a set of files'
+
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,6 +20,8 @@
 */
 
 //CODE HERE
+
+let gitHubDefinition = 'It is a git repository hosting service, allows you to store and save gits outside of your local pc and allow other people to access them for projects and collabs.'
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -27,6 +31,8 @@
 
 //CODE HERE
 
+let gitInitDefinition = 'initializes a local repo in the folder you are in'
+
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -35,6 +41,8 @@
 
 //CODE HERE
 
+let gitCloneDefinition = 'creates a copy of an existing repo'
+
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,6 +50,8 @@
 */
 
 //CODE HERE
+
+let gitStatusDefinition = 'tells you about the repo'
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -54,6 +64,10 @@
 
 //CODE HERE
 
+let gitAddDefinition = 'adds the files to be tracked'
+
+let gitAddCode = 'git add .'
+
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -65,6 +79,9 @@
 
 //CODE HERE
 
+let gitCommitDefinition = "creates a snapshot of the files I'm tracking."
+
+let gitCommitCode = 'git commit -m "message here".'
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +90,5 @@
 */
 
 //CODE HERE
+
+let gitPushDefinition = 'it is used to upload or transfer your local repo to a remote repo'
